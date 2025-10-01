@@ -1,6 +1,7 @@
 // CSC 134
 // M3 Random Numbers Example
-
+// Joseph Troop
+// 9/28/2025
 #include <iostream>
 // for pseudo-random numbers
 #include <cmath>    
